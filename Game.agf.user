@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=NiAnimRoom,Windows=NiAnimRoom,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=NiAnimRoom,Windows=NiAnimRoom,_Debug=NiAnimRoom,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>

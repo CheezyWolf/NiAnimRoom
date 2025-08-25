@@ -1,0 +1,1 @@
+var gamefiles = ['NiAnimRoom.ags', 'acsetup.cfg'];

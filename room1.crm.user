@@ -27,14 +27,9 @@
         </Items>
       </Edges>
       <Characters>
-        <Visible>False</Visible>
+        <Visible>True</Visible>
         <Locked>False</Locked>
-        <Items>
-          <Item ID="0000">
-            <Locked>False</Locked>
-            <Visible>True</Visible>
-          </Item>
-        </Items>
+        <Items />
       </Characters>
       <Objects>
         <Visible>True</Visible>

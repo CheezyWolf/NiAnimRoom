@@ -4,3 +4,6 @@
 // scripts.
 
 import function WalkToObjectAndJumpUp(Object *obj, int height, InventoryItem *item);
+
+//dig dirt
+import function oDigDirt_Interact(Object *obj, CursorMode mode);

@@ -5,3 +5,4 @@
 
 import function WalkToObjectAndJumpUp(Object *obj, int height, InventoryItem *item);
 
+import function WalkToObjectAndPickUp(Object *obj);

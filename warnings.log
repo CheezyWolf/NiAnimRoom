@@ -1,1 +1,1 @@
-Game : (room:3) WARNING: requested event handler function 'room_RepExec' not found (Room 3)
+Game : (room:3)[R 20] Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
